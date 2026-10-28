@@ -1,4 +1,4 @@
-# EmulatedGuidanceComputer
+# Emulated Guidance Computer
 Emulator for the Apollo Guidance Computer
 
 ### Roadmap
